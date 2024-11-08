@@ -5,3 +5,4 @@
 
 
 学习用的。是的，没有错。
+git log --oneline
