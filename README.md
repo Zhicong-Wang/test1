@@ -8,7 +8,4 @@
 git log --oneline
 好的
 可以
-<<<<<<< HEAD
 我也做了一些小的修改
-=======
->>>>>>> 389a33b2251b8e01a056cab5d8ed9dae1c4fb939
